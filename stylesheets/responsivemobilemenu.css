@@ -97,7 +97,7 @@ License: CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
 	border: 2px solid #fff;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px; 
+	-webkit-border-radius: 10px;
 }
 
 .rmm.minimal .rmm-main-list li a:hover {
@@ -106,7 +106,7 @@ License: CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
 }
 
 .rmm.minimal .rmm-toggled {
-	width:95%;
+	width:100%; /*original was at 95% */
 	min-height:26px;
 }
 .rmm.minimal .rmm-toggled-controls {
